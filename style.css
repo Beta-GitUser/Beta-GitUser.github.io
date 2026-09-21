@@ -1,16 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap");
 
 :root {
-  --bg: #090a0f;
-  --panel: #10121a;
-  --panel-hover: #151824;
-  --text: #eceef5;
-  --muted: #9297a8;
-  --line: #242837;
-  --accent: #8b7cff;
-  --accent-2: #b7adff;
-  --green: #75d6a0;
-  --yellow: #e8c66d;
+  --bg: #100e0b;
+  --panel: #191612;
+  --panel-hover: #242019;
+  --text: #d6d0c2;
+  --muted: #8f8879;
+  --line: #3a3329;
+  --accent: #b83a24;
+  --accent-2: #df6b43;
+  --green: #6f8f4b;
+  --yellow: #c19a4a;
   --max: 1050px;
 }
 
